@@ -1,0 +1,6 @@
+tup=("hello","monday",9,3,40)
+tup2=(2,5,7,12,6,90,30)
+tup3=tup2+(9,)
+print(tup3)
+print(tup3.count(90))
+print(tup2[1:5])
