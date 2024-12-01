@@ -12,6 +12,7 @@ if(palind(r)):
    print("the tuple is flip-flop")
 else:
    print("the tuple is not flip-flop")
-   
+
+
     
     
